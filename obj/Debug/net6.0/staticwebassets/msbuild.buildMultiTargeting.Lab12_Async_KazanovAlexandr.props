@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lab12_Async_KazanovAlexandr.props" />
+</Project>
